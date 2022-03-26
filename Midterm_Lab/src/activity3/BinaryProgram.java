@@ -1,7 +1,7 @@
 /******************************************************************
  * Program 1: Conversion from binary to decimal representation
  * Programmer: Regine L. Frencillo
- *             Jhanela Coprado Lesano
+ *             Janelle Coprado Lesano
  * 
  * Class: IT 121        Instructor: John Mark Grabentina
  *        
